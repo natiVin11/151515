@@ -1,18 +1,16 @@
 {
-  "name": "untitled19",
+  "name": "151515",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "My project description",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js",
+    "build": "echo 'No build step needed' ",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "dependencies": {
-    "express": "^5.1.0",
-    "multer": "^1.4.5-lts.2"
-  }
+  "dependencies": {}
 }
